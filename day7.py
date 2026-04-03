@@ -11,6 +11,7 @@ for key, value in freq.items():
 for key, value in freq.items():
     if value == max_count:
         print(key)
+        
 print("print all numbers having maximum frequency with 2 loops")
 numbers = [4,4,5,5,6]
 freq = {}
