@@ -71,6 +71,16 @@ for key, value in freq.items():
         most_frequent = key
 print(f"most frequent number is: {most_frequent}")
 
-
+print("Print most frequent number using one loop")
+numbers = [4, 4, 5, 6, 6, 6]
+freq = {}
+max_count = 0
+most_frequent = None
+for num in numbers:
+    freq[num] = freq.get(num, 0) + 1
+    if freq[num] > max_count:
+        max_count = freq[num]
+        most_frequent = num
+print(f"most frequent number is: {most_frequent}")
 
 
