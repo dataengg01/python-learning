@@ -82,5 +82,3 @@ for num in numbers:
         max_count = freq[num]
         most_frequent = num
 print(f"most frequent number is: {most_frequent}")
-
-
