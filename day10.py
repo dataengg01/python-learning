@@ -80,4 +80,3 @@ for word in words:
         anagrams_map[key] = []
     anagrams_map[key].append(word)
 print(list(anagrams_map.values()))
-
