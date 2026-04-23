@@ -1,0 +1,35 @@
+2026-04-22 18:23:57,560 - INFO - Pipeline Started
+2026-04-22 18:23:57,560 - INFO - Reading data from file
+2026-04-22 18:23:57,561 - INFO - Data Read Successfully
+2026-04-22 18:23:57,561 - INFO - Processing Completed
+2026-04-22 18:23:57,561 - INFO - Writting data to output.txt
+2026-04-22 18:23:57,561 - INFO - Data Written Successfully
+2026-04-22 18:23:57,561 - INFO - Pipeline Completed
+2026-04-23 17:32:43,623 - INFO - Pipeline Started
+2026-04-23 17:32:43,623 - INFO - Reading data from file
+2026-04-23 17:32:43,623 - INFO - Data Read Successfully
+2026-04-23 17:32:43,623 - INFO - Processing Completed
+2026-04-23 17:32:43,623 - INFO - Writting data to output.txt
+2026-04-23 17:32:43,623 - INFO - Data Written Successfully
+2026-04-23 17:32:43,624 - INFO - Pipeline Completed
+2026-04-23 17:33:33,551 - INFO - Pipeline Started
+2026-04-23 17:33:33,551 - INFO - Reading data from file
+2026-04-23 17:33:33,551 - INFO - Data Read Successfully
+2026-04-23 17:33:33,551 - INFO - Processing Completed
+2026-04-23 17:33:33,551 - INFO - Writting data to output2.txt
+2026-04-23 17:33:33,551 - INFO - Data Written Successfully
+2026-04-23 17:33:33,551 - INFO - Pipeline Completed
+2026-04-23 17:37:02,567 - INFO - Pipeline Started
+2026-04-23 17:37:02,567 - INFO - Reading data from file
+2026-04-23 17:37:02,567 - INFO - Data Read Successfully
+2026-04-23 17:37:02,567 - INFO - Processing Completed
+2026-04-23 17:37:02,567 - INFO - Writting data to output2.txt
+2026-04-23 17:37:02,568 - INFO - Data Written Successfully
+2026-04-23 17:37:02,568 - INFO - Pipeline Completed
+2026-04-23 17:44:06,705 - INFO - Pipeline Started
+2026-04-23 17:44:06,705 - INFO - Reading data from file
+2026-04-23 17:44:06,705 - INFO - Data Read Successfully
+2026-04-23 17:44:06,705 - INFO - Processing Completed
+2026-04-23 17:44:06,705 - INFO - Writting data to output2.txt
+2026-04-23 17:44:06,706 - INFO - Data Written Successfully
+2026-04-23 17:44:06,706 - INFO - Pipeline Completed

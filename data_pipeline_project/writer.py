@@ -1,4 +1,12 @@
+import json
+import logging
+
 def write_data(file_path, data):
-    with open(file_path, "w") as file:
-        for key, value in data.items():
-            file.write(f"{key}: {value}\n")
+    try:
+        logging.info(f"Writting data to {file_path}")
+
+        with open(file_path, "w") as file:
+            json.dump(data, file, indent=2)
+    except Exception as e:
+        logging.error(f"Error writting file: {e}")
+
